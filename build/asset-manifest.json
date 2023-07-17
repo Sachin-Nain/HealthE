@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3319690b.css",
+    "main.js": "/static/js/main.09d9efcc.js",
+    "static/media/Home.jpg": "/static/media/Home.a44304cf172c521d0b39.jpg",
+    "static/media/pushup.gif": "/static/media/pushup.2cfa68280ab73c359459.gif",
+    "static/media/planks.gif": "/static/media/planks.4da5ec8f707231041812.gif",
+    "static/media/golden.png": "/static/media/golden.5d8c574da20e38b6d7aa.png",
+    "static/media/trainingfloor.png": "/static/media/trainingfloor.6cde4ad20e1d168a7218.png",
+    "static/media/pool.png": "/static/media/pool.5c397ad6d871dec3d097.png",
+    "static/media/squad.gif": "/static/media/squad.041f79de33ab7ca91d7e.gif",
+    "static/media/Home1.png": "/static/media/Home1.c1138ff39ec7e5d96a97.png",
+    "static/media/Sliderimage6.png": "/static/media/Sliderimage6.dcca9a5fe136e2c3ca6a.png",
+    "static/media/Sliderimage7.png": "/static/media/Sliderimage7.a4033514a3e0b09fddcc.png",
+    "static/media/silver1.png": "/static/media/silver1.8df3a0f31b81e3089211.png",
+    "static/media/Home2.png": "/static/media/Home2.75569f5e05f306d19aff.png",
+    "static/media/Sliderimage4.png": "/static/media/Sliderimage4.773ed4d7c5d62580eecf.png",
+    "static/media/Sliderimage3.png": "/static/media/Sliderimage3.37b61af4a07bfcd79c35.png",
+    "static/media/Sliderimage2.png": "/static/media/Sliderimage2.59381ac74c01d328efd3.png",
+    "static/media/Sliderimage1.png": "/static/media/Sliderimage1.83e221d69abeb4011fde.png",
+    "static/media/w11.png": "/static/media/w11.e67695bfa7adf1acb51d.png",
+    "static/media/neck.png": "/static/media/neck.2bd2fed72e7522f97287.png",
+    "static/media/purple.png": "/static/media/purple.b2d36ea161e641b2b5fe.png",
+    "static/media/h1.png": "/static/media/h1.fa2a35a0ddb882db98d5.png",
+    "static/media/bbn1.png": "/static/media/bbn1.d6e01a4b09ee16c2a751.png",
+    "static/media/Sliderimage5.png": "/static/media/Sliderimage5.c7fa9e487a9f78282f41.png",
+    "static/media/about.png": "/static/media/about.3071d1e825358fbb037c.png",
+    "static/media/thankyou.png": "/static/media/thankyou.509375e626a4f62923b2.png",
+    "static/media/s8.png": "/static/media/s8.0b5730ef8c696969d5f1.png",
+    "static/media/w1.png": "/static/media/w1.1b35965bb53cc1aee5e4.png",
+    "static/media/background.png": "/static/media/background.7bfec6c48207a58ce880.png",
+    "static/media/BMI.png": "/static/media/BMI.c5e69dc3809f8971e387.png",
+    "static/media/bodyf1.png": "/static/media/bodyf1.9e28998e60d49a45d5ce.png",
+    "static/media/logo.png": "/static/media/logo.4cf9437bbd5a632d2491.png",
+    "index.html": "/index.html",
+    "main.3319690b.css.map": "/static/css/main.3319690b.css.map",
+    "main.09d9efcc.js.map": "/static/js/main.09d9efcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3319690b.css",
+    "static/js/main.09d9efcc.js"
+  ]
+}
