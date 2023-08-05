@@ -2,7 +2,7 @@
 
 A website that will take users' data & analysis their Physical Fitness & show results in summarized form.
 
-It can calculate the user's BMI (Body Mass Index), Body Strength & Body Fat, and will help him to track his fitness.
+Our system is capable of calculating your BMI (Body Mass Index), Body Strength, and Body Fat to help you track your fitness progress.
 
 Completely responsive only with PURE CSS.
 
